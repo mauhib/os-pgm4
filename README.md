@@ -10,7 +10,7 @@
 
  The build environment just consists of a Makefile. To compile from source, _make_ and _gcc_ are required. Building is simple: change into the directory and run the command &quot;_make_&quot;. Once the program compiles. It can either be run using the pgm4 file that was compiled or for simplicity, just &quot;_make run_&quot; to run the program with default command line arguments. This stores the output data in the file called _log_. The following picture shows an example build and execution of the program.
  
- ![](Screenshot from 2018-05-03 19-09-49.png)
+ ![](Screenshot%20from%202018-05-03%2019-09-49.png)
  
  The table provided below was generated using the default configuration of the program: service time between 1 and 50, 1000 jobs per simulation, and 1000 simulations. These parameters can easily be changed by changing the constants defined on top of the pgm4.c file.
 
